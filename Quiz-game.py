@@ -46,8 +46,8 @@ else:
 print(f"{name} your score is {score}.")
 
 if score == 100:
-    print("🎉 Outstanding {name} , You're a tech genius!")
+    print(f"🎉 Outstanding {name} , You're a tech genius!")
 elif score >= 60:
-    print("👍 Good job {name} , You know your basics!")
+    print(f"👍 Good job {name} , You know your basics!")
 else:
-    print("😅 Keep learning {name} and try again!")
+    print(f"😅 Keep learning {name} and try again!")
