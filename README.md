@@ -7,3 +7,4 @@
 6. Alarm Clock
 7. Madlibs Generator
 8. Timed Maths Game
+9. Habit Tracker
