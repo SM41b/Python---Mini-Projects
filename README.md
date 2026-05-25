@@ -9,3 +9,4 @@
 8. Timed Maths Game
 9. Habit Tracker
 10. Expense Manager
+11. PDF Merger
